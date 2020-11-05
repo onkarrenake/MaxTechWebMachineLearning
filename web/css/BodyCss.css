@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 13, 2020, 12:05:13 PM
+    Author     : ar
+*/
+body
+{
+    background: linear-gradient(to bottom, #ffffff 0%, #99ccff 100%);
+    height: 950px;
+}
+.firstdiv
+{
+    border:  50px solid #dde7ce8f;;
+    /* margin: 62px 85px; */
+    height: 100%;
+    background-color: white;
+}
+
+
+
+.seconddiv
+{
+
+}
+
+.form-signin input[type="email"] {
+    margin-bottom: 15px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}

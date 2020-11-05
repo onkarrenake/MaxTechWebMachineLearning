@@ -1,0 +1,101 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 12, 2020, 1:28:10 PM
+    Author     : ar
+*/
+
+body{
+
+
+}
+
+.top-nav ul{
+    padding: 0;
+    margin: 0;
+    margin-left:9px;
+
+}
+.dt{
+    height: 40px;
+
+    display: block;
+    width: 317px;
+    margin: auto;
+    margin-top: 21px;
+
+}
+.databtn{
+    display: block;
+    margin: auto;
+    margin-top: 29px;
+    width: 240px;
+    margin-bottom: 20px;
+}
+.innerdiv{
+    height: 761px;
+    background: white;
+    margin: auto;
+    border: 60px solid #e3dbdb;
+    margin: 20px 99px;
+}
+.formdiv{
+    width: 50%;
+
+    margin: auto;
+    margin-top: 44px;
+}
+.nav-pills{
+    background-color: #bbbec0;
+    margin: 0px 100px;
+    margin-top: 24px;
+    height: 70px;
+    font-size: 23px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #007bff;
+    height: 62px;
+}
+
+.container1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+.tablediv{
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    margin-top: 15px;
+
+}
+.divScroll {
+
+    overflow-x:auto;
+
+}
+#colum{
+    width: 143px;
+    height: 39px;
+    margin-left: auto;
+    margin-top: 7px;
+}
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+}
+input[type=checkbox], input[type=radio] {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0px 14px;
+}
+.Position{ 
+    height: 192px;
+    margin-top: 12px;
+}
